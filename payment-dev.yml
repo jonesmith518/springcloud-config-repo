@@ -1,4 +1,9 @@
 
 test-config: hello-config
 
+spring:
+  cloud:
+    config:
+      test2: hello2
+
 
